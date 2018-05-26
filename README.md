@@ -2,14 +2,11 @@
 
 Experiment with the Stellar network sdk.
 
-#### Make Payments.
-#### Real time transactions history on the network
+#### Make token for new asset.
 
 ### Getting Started
 To run this project:
 ```
-> git clone https://github.com/rafaalb/React-StellarLumens.git
-> cd React-StellarLumens
 > npm install
 > npm start
 ```
